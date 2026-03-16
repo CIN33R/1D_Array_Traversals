@@ -1,0 +1,174 @@
+{
+  "tests": [
+    {
+      "name": "MinMax — min()",
+      "setup": "",
+      "run": "./gradlew test --tests ArrayTraversalsTest.minMax_min_basicCases",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "MinMax — max()",
+      "setup": "",
+      "run": "./gradlew test --tests ArrayTraversalsTest.minMax_max_basicCases",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "IndexFinder — indexOfMin()",
+      "setup": "",
+      "run": "./gradlew test --tests ArrayTraversalsTest.indexFinder_indexOfMin_basicCases",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "IndexFinder — indexOfMax()",
+      "setup": "",
+      "run": "./gradlew test --tests ArrayTraversalsTest.indexFinder_indexOfMax_basicCases",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "SumAverage — sum()",
+      "setup": "",
+      "run": "./gradlew test --tests ArrayTraversalsTest.sumAverage_sum_basicCases",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "SumAverage — average()",
+      "setup": "",
+      "run": "./gradlew test --tests ArrayTraversalsTest.sumAverage_average_basicCases",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Counter — countAbove()",
+      "setup": "",
+      "run": "./gradlew test --tests ArrayTraversalsTest.counter_countAbove_basicCases",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Counter — countBelow()",
+      "setup": "",
+      "run": "./gradlew test --tests ArrayTraversalsTest.counter_countBelow_basicCases",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Counter — countEqual()",
+      "setup": "",
+      "run": "./gradlew test --tests ArrayTraversalsTest.counter_countEqual_basicCases",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "PropertyChecker — hasPositive()",
+      "setup": "",
+      "run": "./gradlew test --tests ArrayTraversalsTest.propertyChecker_hasPositive_basicCases",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "PropertyChecker — allPositive()",
+      "setup": "",
+      "run": "./gradlew test --tests ArrayTraversalsTest.propertyChecker_allPositive_basicCases",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "DuplicateDetector — hasDuplicate()",
+      "setup": "",
+      "run": "./gradlew test --tests ArrayTraversalsTest.duplicateDetector_hasDuplicate_basicCases",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Shifter — shiftLeft()",
+      "setup": "",
+      "run": "./gradlew test --tests ArrayTraversalsTest.shifter_shiftLeft_basicCases",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Shifter — shiftRight()",
+      "setup": "",
+      "run": "./gradlew test --tests ArrayTraversalsTest.shifter_shiftRight_basicCases",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Rotator — rotateLeft()",
+      "setup": "",
+      "run": "./gradlew test --tests ArrayTraversalsTest.rotator_rotateLeft_basicCases",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Rotator — rotateRight()",
+      "setup": "",
+      "run": "./gradlew test --tests ArrayTraversalsTest.rotator_rotateRight_basicCases",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Reverser — reverse()",
+      "setup": "",
+      "run": "./gradlew test --tests ArrayTraversalsTest.reverser_reverse_basicCases",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    }
+  ]
+}
